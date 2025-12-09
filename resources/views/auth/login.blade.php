@@ -102,7 +102,7 @@
                             <i class="bi bi-lock"></i>
                         </span>
                         <input type="password" class="form-control" id="password" 
-                               placeholder="••••••••" required>
+                               placeholder="masukan password" required>
                         <button class="btn btn-outline-secondary" type="button" 
                                 id="togglePassword">
                             <i class="bi bi-eye"></i>
